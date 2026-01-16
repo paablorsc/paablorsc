@@ -10,3 +10,4 @@ I love experimenting with virtual labs, scripts, and security concepts to learn 
 - **[homelab-cybersecurity-learning](https://github.com/paablorsc/homelab-cybersecurity-learning)** – Proxmox, VM setup, and networking experiments  
 - **[linux-bash-practice](https://github.com/paablorsc/linux-bash-practice)** – Bash scripts and Linux command-line exercises  
 - **[cybersecurity-awareness-notes](https://github.com/paablorsc/cybersecurity-awareness-notes)** – Notes on social engineering, phishing, and encryption concepts
+ 
