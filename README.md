@@ -1,8 +1,8 @@
 # Hi, I'm Pablo 👋
 
-I’m an ICT student passionate about **cybersecurity, Linux, and hands-on IT projects**.  
-I enjoy **building PCs, exploring hardware, and gaming**, which fuels my curiosity about how systems work.  
-I love experimenting with virtual labs, scripts, and security concepts to learn by doing.
+I’m an ICT student passionate about **cybersecurity, hands-on IT projects, and learning across Linux, Windows, and Mac**.  
+I enjoy **experimenting with virtual labs, scripting, security concepts, and programming in C** to learn by doing.  
+I also like **building PCs and exploring hardware**, which gives me a deeper understanding of how systems work.
 
 ---
 
