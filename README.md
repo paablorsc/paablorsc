@@ -93,12 +93,15 @@ Hands-on training covering IT support, systems administration, networking, and f
   <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?&style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-0678BE?&style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-DD4814?&style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
 - 🏠 Ran a personal **Proxmox homelab** with multiple VMs to simulate enterprise IT environments  
 - 🍓 Built **Raspberry Pi projects** for networking, IoT experiments, and Linux server labs  
 - 💻 Practiced **Windows Server & Linux administration**, Active Directory, networking, and automation in a self-hosted environment  
-- 🔐 Simulated **security testing scenarios**, including vulnerability scanning and endpoint hardening  
+- 🔐 Simulated **security testing scenarios**, including vulnerability scanning, penetration basics, and endpoint hardening  
 
 ---
 
