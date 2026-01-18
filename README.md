@@ -43,7 +43,7 @@ Hands-on training covering IT support, systems administration, networking, and f
 | Microsoft 365 | Outlook, Teams, OneDrive, SharePoint, Intune, Azure |
 | Ticket Handling | Incident and service request handling |
 | Hardware | PC builds, upgrades, replacements |
-| Virtualisation | VirtualBox, VMware (Windows Server & client VMs) |
+| Virtualization | VirtualBox, VMware (Windows Server & client VMs) |
 | Cybersecurity | Studied and practiced through labs and training: phishing and social engineering awareness, endpoint security, system hardening, vulnerability scanning, firewall fundamentals, Kali Linux, Wireshark, Nmap, SQL injection testing |
 | Scripting & Automation | PowerShell basics, Python for labs and automation |
 | Communication | User support, documentation, clear explanations |
