@@ -1,6 +1,6 @@
 # Hello, I'm Pablo 👋
 
-I’m an **ICT Specialist**, graduating June 2026, passionate about IT Support, Service Desk roles, and Cybersecurity. I enjoy troubleshooting technical issues, supporting users, and exploring security challenges to keep systems and networks secure. I gain hands-on experience through practical labs, personal homelabs, and real-world simulations that mirror enterprise IT environments.
+I’m an **ICT Specialist**, graduating June 2026, passionate about IT Support, Service Desk roles, and **Cybersecurity**. I enjoy troubleshooting technical issues, supporting users, and exploring security challenges to keep systems and networks secure. I gain hands-on experience through practical labs, personal homelabs, and real-world simulations that mirror enterprise IT environments.
 
 I have completed my ICT studies in Finnish, giving me the ability to work in both Finnish and English IT environments.
 
