@@ -6,19 +6,31 @@ I’m an **ICT Specialist**, graduating June 2026, passionate about IT Support, 
 
 ## Objective
 
-I am seeking a hands-on **entry-level or graduate role** where I can apply and develop my skills in IT Support and Cybersecurity, including both practical and security-focused tasks. I aim to work in an environment where I can:
+I am seeking a hands-on **entry-level or graduate role** where I can **apply and expand my skills in IT Support and explore cybersecurity** in practical environments. As an ICT Specialist (graduating June 2026), I have gained experience through **labs, personal homelabs, and real-world simulations**, and I am eager to continue learning in a professional setting. I aim to:  
 
-Provide 1st line technical support in Windows 10/11 environments
+- Provide 1st line technical support in Windows 10/11 environments  
+- Troubleshoot hardware, software, and access issues  
+- Manage users and permissions using Active Directory  
+- Support Microsoft 365 applications, Intune, and Azure  
+- Develop foundational cybersecurity skills, including phishing awareness, endpoint security, system hardening, vulnerability scanning, and lab-based threat detection  
+- Build experience in IT service management, networking, secure infrastructure, and cloud administration  
 
-Troubleshoot hardware, software, and access issues
+---
 
-Manage users and permissions using Active Directory
+## Education & Applied Training
 
-Support Microsoft 365 applications and devices
+**Vocational Qualification in ICT (09/2024 – 06/2026)**  
+*IT Support Specialist / ICT Specialist*  
 
-Explore cybersecurity practices, including system hardening and threat detection
+Hands-on training covering IT support, systems administration, networking, and foundational cybersecurity through **school labs, personal homelabs, and real-world simulations**. Topics included:  
 
-Develop skills in IT service management, networking, and secure infrastructure
+- Windows Workstation & Server administration  
+- Linux systems (client and server)  
+- Networking fundamentals and active devices  
+- PowerShell scripting & basic Python  
+- Microsoft 365, Intune, Azure management  
+- Ticketing systems (ServiceNow)  
+- Cybersecurity: phishing, endpoint protection, vulnerability scanning (Nessus, OpenVAS), Wireshark, Nmap, SQL injection testing, encryption fundamentals  
 
 ---
 
@@ -32,9 +44,9 @@ Develop skills in IT service management, networking, and secure infrastructure
 | Ticket Handling | Incident and service request handling |
 | Hardware | PC builds, upgrades, replacements |
 | Virtualisation | VirtualBox, VMware (Windows Server & client VMs) |
-| Cybersecurity | Studied and practiced through labs and training: phishing and social engineering awareness, endpoint security basics, system hardening, vulnerability scanning, firewall fundamentals |
+| Cybersecurity | Studied and practiced through labs and training: phishing and social engineering awareness, endpoint security, system hardening, vulnerability scanning, firewall fundamentals, Kali Linux, Wireshark, Nmap, SQL injection testing |
+| Scripting & Automation | PowerShell basics, Python for labs and automation |
 | Communication | User support, documentation, clear explanations |
-
 
 ---
 
@@ -48,7 +60,6 @@ Develop skills in IT service management, networking, and secure infrastructure
   <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
-
 ### IT Support Tools
 <div>
   <img src="https://img.shields.io/badge/-Active_Directory-003366?&style=for-the-badge" />
@@ -58,6 +69,14 @@ Develop skills in IT service management, networking, and secure infrastructure
   <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
+### Cybersecurity Tools
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-0678BE?&style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-DD4814?&style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenVAS-005A32?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Nessus-FF3300?&style=for-the-badge" />
+</div>
 
 ---
 
@@ -78,4 +97,4 @@ Develop skills in IT service management, networking, and secure infrastructure
 
 ---
 
-📌 *This GitHub profile documents my IT labs, personal homelabs, projects, and continuous learning as I work towards a career in Cybersecurity, building on my foundation in IT Support.
+📌 *This GitHub profile documents my IT labs, personal homelabs, projects, and continuous learning as I work towards a career in **Cybersecurity**, building on my foundation in IT Support.*
