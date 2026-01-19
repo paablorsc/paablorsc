@@ -115,3 +115,8 @@ This GitHub profile documents my **IT labs, personal homelabs, projects, and con
 
 ![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paablorsc&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paablorsc&layout=compact&theme=radical)
+
+---
+
+## Attribution
+This README was originally inspired by <AmaanK03/https://github.com/AmaanK03/AmaanK03> and has been rewritten for personal learning purposes.
