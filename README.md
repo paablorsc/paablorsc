@@ -119,4 +119,4 @@ This GitHub profile documents my **IT labs, personal homelabs, projects, and con
 ---
 
 ## Attribution
-This README was originally inspired by <AmaanK03/https://github.com/AmaanK03/AmaanK03> and has been rewritten for personal learning purposes.
+This README was originally inspired by [AmaanK03](https://github.com/AmaanK03/AmaanK03) and has been rewritten for personal learning purposes.
