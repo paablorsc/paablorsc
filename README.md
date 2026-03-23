@@ -61,7 +61,7 @@ Hands-on training through labs, homelabs, and simulations:
 ## 💻 Projects
 
 ### 🔧 Windows Server & Active Directory Lab
-https://github.com/paablorsc/Windows-Server-Active-Directory-Lab
+[https://github.com/paablorsc/Windows-Server-Active-Directory-Lab](https://github.com/paablorsc/windows-server-ad-lab)
 
 - Built AD domain environment  
 - Managed users, groups, permissions, GPOs  
