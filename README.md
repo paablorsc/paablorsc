@@ -98,14 +98,19 @@ https://github.com/paablorsc/huuhuu-scanner
 
 ## 📌 About
 
-This GitHub is a running log of labs, experiments, and progress from IT Support toward Cybersecurity and Blue Team skills.
+This GitHub documents my labs, projects, and progress from IT Support into Cybersecurity through hands-on practice.
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
-![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paablorsc&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paablorsc&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paablorsc&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paablorsc&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
