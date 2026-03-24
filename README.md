@@ -1,4 +1,4 @@
-# Pablo (Coruj4blo)
+# Pablo
 
 `IT Support` • `Homelabs` • `Networking` • `Cybersecurity (learning)`
 
