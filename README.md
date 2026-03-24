@@ -63,18 +63,21 @@ Hands-on training through labs, homelabs, and simulations:
 ### 🔧 Windows Server & Active Directory Lab
 [https://github.com/paablorsc/Windows-Server-Active-Directory-Lab](https://github.com/paablorsc/windows-server-ad-lab)
 
-- Built AD domain environment  
-- Managed users, groups, permissions, GPOs  
-- Fixed authentication and connectivity issues  
-- Shared drives + endpoint patching
+- Built and configured an Active Directory domain environment (Windows Server)  
+- Created and managed users, groups, and permissions  
+- Implemented and tested Group Policy Objects (GPOs)  
+- Troubleshot authentication and network connectivity issues  
+- Configured shared drives and access control  
+- Simulated real-world IT administration tasks in a lab environment
+- Performed basic security testing in a controlled lab environment
 
-### 🎫 Ticketing System Lab
-https://github.com/paablorsc/
+### 🔐 WiFi Reconnaissance Tool  
+https://github.com/paablorsc/huuhuu-scanner
 
-- Simulated real 1st-line support workflow  
-- Incident logging and prioritisation  
-- Clear technical documentation
-
+- Developed a WiFi scanning tool using Python and Scapy  
+- Performed real-time network discovery and signal analysis  
+- Worked with monitor mode and packet capture  
+- Identified network security types and client activity  
 ---
 
 ## 🏠 Homelab
