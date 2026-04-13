@@ -1,14 +1,15 @@
 # Pablo
 
-`IT Support` • `Homelabs` • `Networking` • `Cybersecurity (learning)`
+![Focus](https://img.shields.io/badge/Focus-IT%20%7C%20Cybersecurity%20%7C%20Networking-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-informational?style=for-the-badge)
 
 ICT Specialist student — graduating 06/2026  
-Building labs, testing systems, and learning by doing.  
-Working in Finnish & English IT environments.
+Building and testing systems through hands-on labs and real-world scenarios.  
+Experience working in Finnish & English IT environments.
 
 ---
 
-## 🧰 Stack
+## Stack
 
 <div>
   <img src="https://img.shields.io/badge/-Windows_10/11-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -32,56 +33,81 @@ Working in Finnish & English IT environments.
 
 ---
 
-## 🎯 Focus
+## Professional Focus
 
-Entry-level **IT Support / Service Desk** + growing into cybersecurity.
+Building practical experience across IT systems, networking, and cybersecurity through hands-on labs and real-world scenarios.
 
-- Windows 10/11 troubleshooting  
-- Active Directory administration  
-- Microsoft 365 / Intune / Azure basics  
-- Networking fundamentals & diagnostics  
-- Endpoint hardening and vulnerability scanning  
-- Lab-based security testing  
-
----
-
-## 🎓 ICT Studies (2024–2026)
-
-Practical learning through labs, homelab setups, and simulations:
-
-- Windows Server & Linux administration  
-- Networking and active devices  
-- ServiceNow ticket workflows  
-- PowerShell automation & basic Python  
-- Security labs: Wireshark, Nmap, Nessus, OpenVAS  
-- Virtualization with Proxmox, VMware, VirtualBox  
+- Windows 10/11 troubleshooting and system diagnostics  
+- Active Directory user and access management  
+- Microsoft 365, Intune, and Azure fundamentals  
+- Network troubleshooting and protocol analysis  
+- Endpoint hardening and vulnerability assessment  
+- Security-focused lab testing and analysis  
 
 ---
 
-## 💻 Projects
+## ICT Studies (2024–2026)
 
-### 🔧 Windows Server & Active Directory Lab
+Hands-on technical training through labs, simulations, and independent projects:
+
+- Windows Server and Linux system administration  
+- Networking concepts and infrastructure  
+- ServiceNow and ticket-based workflows  
+- PowerShell automation and Python fundamentals  
+- Security tooling: Wireshark, Nmap, Nessus, OpenVAS  
+- Virtualization using Proxmox, VMware, and VirtualBox  
+
+---
+
+## Cybersecurity Practice
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-2ea44f?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Rank](https://img.shields.io/badge/Rank-Top%2015%25-blue?style=for-the-badge)
+![Rooms](https://img.shields.io/badge/Rooms%20Completed-27+-informational?style=for-the-badge)
+
+Hands-on cybersecurity training through structured labs and CTF-style challenges.
+
+**Platform:** TryHackMe  
+**Profile:** https://tryhackme.com/p/tr3333  
+
+### Core Areas
+- Network fundamentals and traffic analysis  
+- Linux and Windows system interaction  
+- Enumeration methodologies  
+- Introductory exploitation techniques  
+- CTF-based problem solving  
+
+### Practical Exposure
+- Service and port enumeration using Nmap  
+- Linux CLI navigation and system interaction  
+- Windows environment exploration  
+- Networking models and protocol behavior  
+
+---
+
+## Projects
+
+### Windows Server & Active Directory Lab
 https://github.com/paablorsc/windows-server-ad-lab
 
-- Built and configured an Active Directory domain environment (Windows Server)  
-- Created and managed users, groups, and permissions  
-- Implemented and tested Group Policy Objects (GPOs)  
-- Troubleshot authentication and network connectivity issues  
-- Configured shared drives and access control  
-- Simulated real-world IT administration tasks in a lab environment  
-- Performed basic security testing in a controlled lab environment  
+- Designed and deployed an Active Directory domain environment  
+- Managed users, groups, and access control policies  
+- Configured and tested Group Policy Objects (GPOs)  
+- Troubleshot authentication and network-related issues  
+- Simulated real-world administrative and support scenarios  
+- Performed controlled security testing within the lab  
 
-### 🔐 WiFi Reconnaissance Tool  
+### WiFi Reconnaissance Tool  
 https://github.com/paablorsc/huuhuu-scanner
 
-- Developed a WiFi scanning tool using Python and Scapy  
-- Performed real-time network discovery and signal analysis  
-- Worked with monitor mode and packet capture  
-- Identified network security types and client activity  
+- Developed a wireless scanning tool using Python and Scapy  
+- Performed real-time network discovery and packet analysis  
+- Utilized monitor mode for traffic inspection  
+- Identified network configurations and client activity  
 
 ---
 
-## 🏠 Homelab
+## Homelab
 
 <div>
   <img src="https://img.shields.io/badge/-Proxmox-FF0000?&style=for-the-badge&logo=proxmox&logoColor=white" />
@@ -90,23 +116,23 @@ https://github.com/paablorsc/huuhuu-scanner
   <img src="https://img.shields.io/badge/-Nmap-DD4814?&style=for-the-badge&logo=nmap&logoColor=white" />
 </div>
 
-- Multi-VM Proxmox environment simulating enterprise IT  
-- Raspberry Pi networking and Linux experiments  
-- Active Directory, automation, and monitoring practice  
-- Vulnerability scanning and endpoint hardening  
+- Multi-VM Proxmox environment simulating enterprise infrastructure  
+- Raspberry Pi used for networking and Linux experimentation  
+- Active Directory, automation, and monitoring scenarios  
+- Vulnerability scanning and system hardening practices  
 
 ---
 
-## 📌 About
+## Overview
 
-This GitHub documents my labs, projects, and progress from IT Support into Cybersecurity through practical work and experimentation.
+This repository documents practical work, labs, and projects focused on IT operations and cybersecurity development through hands-on experience.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paablorsc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paablorsc&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170em" src="https://streak-stats.demolab.com?user=paablorsc&theme=tokyonight&hide_border=true"/>
 </p>
 
