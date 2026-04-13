@@ -41,35 +41,35 @@ Entry-level **IT Support / Service Desk** + growing into cybersecurity.
 - Microsoft 365 / Intune / Azure basics  
 - Networking fundamentals & diagnostics  
 - Endpoint hardening and vulnerability scanning  
-- Lab-based security testing
+- Lab-based security testing  
 
 ---
 
 ## 🎓 ICT Studies (2024–2026)
 
-Hands-on training through labs, homelabs, and simulations:
+Practical learning through labs, homelab setups, and simulations:
 
 - Windows Server & Linux administration  
 - Networking and active devices  
 - ServiceNow ticket workflows  
 - PowerShell automation & basic Python  
 - Security labs: Wireshark, Nmap, Nessus, OpenVAS  
-- Virtualization with Proxmox, VMware, VirtualBox
+- Virtualization with Proxmox, VMware, VirtualBox  
 
 ---
 
 ## 💻 Projects
 
 ### 🔧 Windows Server & Active Directory Lab
-[https://github.com/paablorsc/Windows-Server-Active-Directory-Lab](https://github.com/paablorsc/windows-server-ad-lab)
+https://github.com/paablorsc/windows-server-ad-lab
 
 - Built and configured an Active Directory domain environment (Windows Server)  
 - Created and managed users, groups, and permissions  
 - Implemented and tested Group Policy Objects (GPOs)  
 - Troubleshot authentication and network connectivity issues  
 - Configured shared drives and access control  
-- Simulated real-world IT administration tasks in a lab environment
-- Performed basic security testing in a controlled lab environment
+- Simulated real-world IT administration tasks in a lab environment  
+- Performed basic security testing in a controlled lab environment  
 
 ### 🔐 WiFi Reconnaissance Tool  
 https://github.com/paablorsc/huuhuu-scanner
@@ -78,6 +78,7 @@ https://github.com/paablorsc/huuhuu-scanner
 - Performed real-time network discovery and signal analysis  
 - Worked with monitor mode and packet capture  
 - Identified network security types and client activity  
+
 ---
 
 ## 🏠 Homelab
@@ -92,27 +93,23 @@ https://github.com/paablorsc/huuhuu-scanner
 - Multi-VM Proxmox environment simulating enterprise IT  
 - Raspberry Pi networking and Linux experiments  
 - Active Directory, automation, and monitoring practice  
-- Vulnerability scanning and endpoint hardening
+- Vulnerability scanning and endpoint hardening  
 
 ---
 
 ## 📌 About
 
-This GitHub documents my labs, projects, and progress from IT Support into Cybersecurity through hands-on practice.
+This GitHub documents my labs, projects, and progress from IT Support into Cybersecurity through practical work and experimentation.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paablorsc&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paablorsc&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=paablorsc&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paablorsc&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paablorsc&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-## Attribution
-Inspired by https://github.com/AmaanK03/AmaanK03
